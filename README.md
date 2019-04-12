@@ -2,7 +2,7 @@
 
 Python and Arduino code for an interactive visualisation of sensory coding within the visual system. 
 
-![eyeball](https://levtank.github.io/images/osf_2-comp.jpg)
+![eyeball](https://github.com/levtank/eyeball_circuit_demo/raw/master/desc_image.png)
 
 see [here](https://levtank.github.io/osf-2016/) for more details about the concept. 
 
